@@ -1,11 +1,12 @@
 # Tic-Tac-Toe Game
 <p>This is a simple two player Tic-Tac-Toe Game. </p>
+<a href="https://yashikavishwakarma.github.io/Tic-Tac-Toe-Game/">Click Here To Play</a>
+
 <ul> <h3>Skills Used</h3>
     <li>HTML</li>
     <li>CSS</li>
     <li>JavaScript</li>
 </ul>
-<a href="https://yashikavishwakarma.github.io/Tic-Tac-Toe-Game/">Click Here To Play</a>
 <br>
 <hr>
 
